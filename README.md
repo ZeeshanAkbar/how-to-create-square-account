@@ -1,1 +1,1 @@
-# how-to-create-square-account
+# Square Up - Point of Sale System
